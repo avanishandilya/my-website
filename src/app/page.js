@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
         <ol>
           <li>
-            Get started by editing <code>src/app/page.js</code>.
+            Avaniiiiiii - Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
