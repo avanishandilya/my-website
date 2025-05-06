@@ -21,6 +21,7 @@ export default function Home() {
             Avaniiiiiii - Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>Avani hello hello hello.</li>
         </ol>
 
         <div className={styles.ctas}>
